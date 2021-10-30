@@ -1,0 +1,33 @@
+/*header*/
+
+header{
+
+    background-image: url(../images/header-bg.jpg);
+    height: 90vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 90vh;
+  
+}
+
+
+/*end header*/
+
+.content h1{
+
+    font-weight: bold;
+}
+
+
+.about .line{
+
+    height: 178vh;
+    width: 2px;
+    background-color: rgb(224, 222, 222);
+    position: absolute;
+    top: 180.6rem;
+    left: 49.5%;
+    z-index: -1;
+
+}
+
